@@ -46,6 +46,7 @@ a {
     text-decoration: none;
     color: #1d9b6c; }
 
+
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin-bottom: 0;
@@ -217,6 +218,10 @@ img::selection {
 
 img::-moz-selection {
   background: transparent; }
+
+img::.img-circle {
+          border-radius: 50%;
+      }
 
 body {
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0.2); }

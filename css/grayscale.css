@@ -219,9 +219,6 @@ img::selection {
 img::-moz-selection {
   background: transparent; }
 
-img::.img-circle {
-          border-radius: 50%;
-      }
 
 body {
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0.2); }
